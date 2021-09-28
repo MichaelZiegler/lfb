@@ -60,11 +60,6 @@
                  "name":"jitsiRoomAdminTag",
                  "type":"string",
                  "value":"speaker"
-                }, 
-                {
-                 "name":"jitsiTrigger",
-                 "type":"string",
-                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
