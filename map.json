@@ -277,6 +277,25 @@
  "tilesets":[
         {
          "columns":10,
+         "firstgid":123,
+         "image":"src\/assets\/tileset7_eigene.png",
+         "imageheight":320,
+         "imagewidth":320,
+         "margin":0,
+         "name":"tileset7_eigene",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"\u00a9 2021 WorkAdventure <https:\/\/workadventu.re\/> \nLicense: WORKADVENTURE SPECIFIC RESOURCES LICENSE (see LICENSE.assets file)"
+                }],
+         "spacing":0,
+         "tilecount":100,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
+         "columns":10,
          "firstgid":1,
          "image":"src\/assets\/tileset5_export.png",
          "imageheight":320,
